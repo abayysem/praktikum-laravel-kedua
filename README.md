@@ -59,7 +59,7 @@ Implementasi Blade yang digunakan:
 ## Screenshot Website
 
 ### Halaman Beranda
-![Halaman Beranda]beranda.png
+![Halaman Beranda](beranda.png)
 
 ### Halaman Daftar Buku
 daftar.png
