@@ -17,7 +17,7 @@ Aplikasi ini dibuat untuk menerapkan konsep Routing, Controller, dan View (MVC) 
 Website BookStore memiliki lima halaman utama:
 
 1. **Beranda:** Menampilkan halaman utama website.
-2. **Tentang Toko:** Menampilkan informasi mengenai BookStore.
+2. **Tentang Toko:** Menampilkan informasi mengenai Gremery libry.
 3. **Daftar Buku:** Menampilkan koleksi buku yang tersedia.
 4. **Kategori Buku:** Menampilkan kategori buku.
 5. **Detail Buku:** Menampilkan informasi lengkap berdasarkan ID buku.
