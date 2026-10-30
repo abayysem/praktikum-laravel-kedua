@@ -62,16 +62,16 @@ Implementasi Blade yang digunakan:
 ![Halaman Beranda](beranda.png)
 
 ### Halaman Daftar Buku
-(daftar.png)
+![](daftar.png)
 
 ### Halaman Detail Buku
-(detail.png)
+![](detail.png)
 
 ### Halaman Tentang
-(tentang.png)
+![](tentang.png)
 
 ### Halaman Kategori
-(kategori.png)
+![](kategori.png)
 
 
 ## Cara Menjalankan Proyek
