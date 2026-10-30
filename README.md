@@ -1,7 +1,7 @@
 # Praktikum Laravel - Routing dan MVC
 
-**Nama:** [Nama Lengkap]  
-**NIM:** [C2483207013]  
+**Nama:** Akbar Syam Al Ghamar 
+**NIM:** C2483207013  
 
 ## Tema Proyek
 **Katalog Buku (BookStore)**
@@ -41,17 +41,14 @@ Route yang digunakan:
 ### 2. Controller
 
 Controller digunakan untuk mengelola data dan menghubungkan data dengan View.
-
 Controller yang digunakan:
 - HomeController
 - BukuController
-
 Data buku disimpan dalam bentuk array PHP di dalam BukuController.
 
 ### 3. View
 
 View digunakan untuk menampilkan informasi kepada pengguna menggunakan Blade Template.
-
 Implementasi Blade yang digunakan:
 - `@extends`
 - `@section`
@@ -62,25 +59,20 @@ Implementasi Blade yang digunakan:
 ## Screenshot Website
 
 ### Halaman Beranda
-
-![Halaman Beranda](screenshots/beranda.png)
+beranda.png
 
 ### Halaman Daftar Buku
-
-![Halaman Daftar Buku](screenshots/daftar.png)
+daftar.png
 
 ### Halaman Detail Buku
+detail.png
 
-![Halaman Detail Buku](screenshots/detail.png)
+### Halaman Tentang
+tentang.png
 
-## Teknologi yang Digunakan
+### Halaman Kategori
+kategori.png
 
-- Laravel
-- PHP
-- HTML
-- CSS
-- Bootstrap
-- Blade Template
 
 ## Cara Menjalankan Proyek
 
@@ -89,9 +81,3 @@ Implementasi Blade yang digunakan:
 3. Jalankan `composer install`.
 4. Jalankan `php artisan serve`.
 5. Buka `http://127.0.0.1:8000` melalui browser.
-
----
-
-**Universitas Muhammadiyah Tasikmalaya**  
-Program Studi Pendidikan Teknologi Informasi  
-2026
