@@ -4,11 +4,11 @@
 **NIM:** C2483207013  
 
 ## Tema Proyek
-**Katalog Buku (BookStore)**
+**Katalog Buku**
 
 ## Deskripsi Aplikasi
 
-BookStore merupakan website katalog buku sederhana yang dikembangkan menggunakan framework Laravel. Website ini menyediakan informasi mengenai koleksi buku, meliputi judul, penulis, kategori, harga, dan deskripsi buku.
+Gremery libry merupakan website katalog buku sederhana yang dikembangkan menggunakan framework Laravel. Website ini menyediakan informasi mengenai koleksi buku, meliputi judul, penulis, kategori, harga, dan deskripsi buku.
 
 Aplikasi ini dibuat untuk menerapkan konsep Routing, Controller, dan View (MVC) dalam pengembangan website menggunakan Laravel.
 
